@@ -1,0 +1,11 @@
+[project]
+name = "learn-python"
+version = "0.1.0"
+description = "Python practice problems"
+requires-python = ">=3.9"
+
+[dependency-groups]
+dev = ["pytest>=8.0"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
