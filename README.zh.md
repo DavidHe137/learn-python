@@ -23,3 +23,4 @@ uv run pytest -k largest   # 只运行某一道题的测试
 ## 题目
 
 - `problems/largest_number.py` — 找出列表中的最大数
+- `problems/count_even_numbers.py` — 统计列表中偶数的个数

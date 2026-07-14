@@ -25,3 +25,4 @@ uv run pytest -k largest   # run one problem's tests
 ## Problems
 
 - `problems/largest_number.py` — find the largest number in a list
+- `problems/count_even_numbers.py` — count how many even numbers are in a list
